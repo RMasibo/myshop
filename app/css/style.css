@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.yellowtail-regular {
+    font-family: 'yellowtail-regular, sans-serif';
+    font-style: normal;
+}
+
+.container-fluid-1{
+    background-image: url('../assets/shop.png');
+}
+
+.Footer-img{
+    border-bottom: 5px solid #ff7200;
+    border-top: 5px solid #ff7200;
+    
+}
+
